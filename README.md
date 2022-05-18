@@ -1,4 +1,4 @@
-# monocular-depth-estimation
+# semantic-segmentation-with-IoU-metric-and-DICE-coffecient
 Monocular depth estimation using semantic segmentation on virtual KITTI 2 dataset with IoU metric and DICE coffecient
 
 # UNET model architecture with skip connections 
